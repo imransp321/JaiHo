@@ -1,0 +1,5 @@
+2020-07-13 18:18:45.7051||DEBUG|PostgreSQL.Program|init main function 
+2020-07-13 18:18:50.5969||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2020-07-13 18:18:50.6307||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2020-07-13 18:18:50.6848||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\v0c1624\Desktop\miindia\PostgreSQL\PostgreSQL 
+2020-07-13 18:19:15.8157||INFO|PostgreSQL.Controllers.LoginController|LoginController.ChangePassword method called! 
